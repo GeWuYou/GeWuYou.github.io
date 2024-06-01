@@ -868,4 +868,26 @@
           title="1738. 找出第 K 大的异或坐标值"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/FindOutTheMissingObservations.java"
           title="2028. 找出缺失的观测数据"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DistributeCandyIToTheLittleOnes.java"
+          title="2928. 给小朋友们分糖果 I"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DivideSweets.java" title="575. 分糖果"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DistinguishBetweenBlackAndWhiteBalls.java"
+          title="2938. 区分黑球与白球"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/Lifeboat.java" title="881. 救生艇"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/BattleshipOnDeck.java" title="419. 甲板上的战舰"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/RoundUpTheAccountBalanceAfterThePurchase.java"
+          title="2806. 取整购买后的账户余额"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MaxScore.java"
+          title="2786. 访问数组中的位置使分数最大"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MaximumBeautyValueOfTheArray.java"
+          title="2779. 数组的最大美丽值"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/LongestSpecialSequenceII.java"
+          title="522. 最长特殊序列 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/PriceReductions.java" title="2288. 价格减免"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/NumberOfBeautifulSubscriptPairs.java"
+          title="2748. 美丽下标对的数目"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/TrendsInTemperatureChange.java"
+          title="LCP 61. 气温变化趋势"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/NextBiggerElementII.java"
+          title="503. 下一个更大元素 II"/>
 </trees>
